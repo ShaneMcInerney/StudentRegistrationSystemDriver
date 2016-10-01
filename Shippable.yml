@@ -4,7 +4,7 @@ jdk:
    - openjdk7
 
 after_success:
- - mvn -X compile assembly:single
+ - mvn -X compile test assembly:single
 notifications:
   email:
       recipients:
