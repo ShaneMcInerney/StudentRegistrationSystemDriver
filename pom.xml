@@ -21,10 +21,10 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-			<groupId>shanemcinerney</groupId>
-			<artifactId>StudentRegistrationSystem</artifactId>
-			<version>0.0.1</version>
-		</dependency>  
+	<groupId>shanemcinerney</groupId>
+	<artifactId>StudentRegistrationSystem</artifactId>
+	<version>0.0.1</version>
+	</dependency>  
   </dependencies>
   
  <repositories>
